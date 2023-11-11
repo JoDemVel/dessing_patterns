@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DirectorSQLQuery
+comment1.params=table
+comment1.target=SQLQueryBuilder\ makeSQL(java.lang.String)
+numComments=2

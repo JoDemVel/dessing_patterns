@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SQLQueryBuilder
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=fields
+comment2.target=SQLQueryBuilder\ select(java.lang.String[])
+comment3.params=table
+comment3.target=SQLQueryBuilder\ from(java.lang.String)
+comment4.params=condition
+comment4.target=SQLQueryBuilder\ where(java.lang.String)
+comment5.params=fields
+comment5.target=SQLQueryBuilder\ groupBy(java.lang.String[])
+comment6.params=condition
+comment6.target=SQLQueryBuilder\ having(java.lang.String)
+comment7.params=fields
+comment7.target=SQLQueryBuilder\ orderBy(java.lang.String[])
+comment8.params=
+comment8.target=SQLQueryBuilder\ getResult()
+numComments=9

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=QuerySQL
+comment1.params=
+comment1.target=QuerySQL()
+comment10.params=
+comment10.target=java.lang.String\ getSQL()
+comment11.params=
+comment11.target=SQLQueryBuilder\ getResult()
+comment12.params=
+comment12.target=Clonable\ clonar()
+comment2.params=q
+comment2.target=QuerySQL(QuerySQL)
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=fields
+comment4.target=SQLQueryBuilder\ select(java.lang.String[])
+comment5.params=table
+comment5.target=SQLQueryBuilder\ from(java.lang.String)
+comment6.params=condition
+comment6.target=SQLQueryBuilder\ where(java.lang.String)
+comment7.params=fields
+comment7.target=SQLQueryBuilder\ groupBy(java.lang.String[])
+comment8.params=condition
+comment8.target=SQLQueryBuilder\ having(java.lang.String)
+comment9.params=fields
+comment9.target=SQLQueryBuilder\ orderBy(java.lang.String[])
+numComments=13
